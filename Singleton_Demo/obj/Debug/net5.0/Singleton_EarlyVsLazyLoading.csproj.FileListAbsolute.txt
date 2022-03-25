@@ -1,0 +1,16 @@
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\obj\Debug\net5.0\Singleton_EarlyVsLazyLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\obj\Debug\net5.0\Singleton_EarlyVsLazyLoading.AssemblyInfoInputs.cache
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\obj\Debug\net5.0\Singleton_EarlyVsLazyLoading.AssemblyInfo.cs
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\obj\Debug\net5.0\Singleton_EarlyVsLazyLoading.csproj.CoreCompileInputs.cache
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\bin\Debug\net5.0\Singleton_EarlyVsLazyLoading.exe
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\bin\Debug\net5.0\Singleton_EarlyVsLazyLoading.deps.json
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\bin\Debug\net5.0\Singleton_EarlyVsLazyLoading.runtimeconfig.json
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\bin\Debug\net5.0\Singleton_EarlyVsLazyLoading.runtimeconfig.dev.json
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\bin\Debug\net5.0\Singleton_EarlyVsLazyLoading.dll
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\bin\Debug\net5.0\ref\Singleton_EarlyVsLazyLoading.dll
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\bin\Debug\net5.0\Singleton_EarlyVsLazyLoading.pdb
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\obj\Debug\net5.0\Singleton_EarlyVsLazyLoading.dll
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\obj\Debug\net5.0\ref\Singleton_EarlyVsLazyLoading.dll
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\obj\Debug\net5.0\Singleton_EarlyVsLazyLoading.pdb
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\obj\Debug\net5.0\Singleton_EarlyVsLazyLoading.genruntimeconfig.cache
+C:\Users\ramya.sarvepalli\source\repos\Singleton_LazyLoading\obj\Debug\net5.0\Singleton_EarlyVsLazyLoading.csproj.AssemblyReference.cache
